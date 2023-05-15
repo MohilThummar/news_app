@@ -1,0 +1,13 @@
+/// <<< Entire app all type of constant --------- >>>
+
+class Constant {
+  // App Config .....
+
+  // Api Config .....
+  static const String baseUrl = '';
+  static const String fontFamily = 'PTSerif';
+
+  // Firebase Config .....
+
+  // App Secrets .....
+}
